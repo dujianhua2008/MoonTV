@@ -115,10 +115,30 @@
       "name": "恐怖",
       "type": "movie",
       "query": "恐怖"
+    },{
+      "name": "犯罪",
+      "type": "movie",
+      "query": "犯罪"
+    },{
+      "name": "奇幻",
+      "type": "movie",
+      "query": "奇幻"
+    },{
+      "name": "冒险",
+      "type": "movie",
+      "query": "冒险"
+    },{
+      "name": "灾难",
+      "type": "movie",
+      "query": "灾难"
     }, {
       "name": "治愈",
       "type": "movie",
       "query": "治愈"
+    }, {
+      "name": "战争",
+      "type": "movie",
+      "query": "战争"
     }, {
       "name": "热门",
       "type": "tv",
